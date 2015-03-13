@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{911E67C6-3D85-4FCE-B560-20A9C3E3FF48}") = "outlook_dataAuto", "outlook_dataAuto.exe", "{877C8468-3FF5-4897-9808-0A5DCA408D0B}"
+	ProjectSection(DebuggerProjectSystem) = preProject
+		PortSupplier = 00000000-0000-0000-0000-000000000000
+		Executable = D:\Source\SelfTest\outlook_dataAuto\outlook_dataAuto\bin\Debug\outlook_dataAuto.exe
+		RemoteMachine = CNO-9BVCFS1
+		StartingDirectory = D:\Source\SelfTest\outlook_dataAuto\outlook_dataAuto\bin\Debug
+		Environment = Default
+		LaunchingEngine = 00000000-0000-0000-0000-000000000000
+		LaunchSQLEngine = No
+		AttachLaunchAction = No
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{877C8468-3FF5-4897-9808-0A5DCA408D0B}.Debug|x86.ActiveCfg = Debug|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
